@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-10-16T02:35:55.000Z",
+      "message": "WIP: publicar mascota",
+      "url": "https://github.com/israelantezana/mascotas-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 48,
+      "additions": 39,
+      "deletions": 9,
+      "date": "2025-10-16"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
